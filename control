@@ -1,0 +1,9 @@
+Package: com.ryst.fiveicondock7
+Name: Five Icon Dock 7
+Depends: mobilesubstrate, com.chpwn.iconsupport
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Allow up to 5 icons in the dock.
+Maintainer: ryst
+Author: ryst
+Section: Tweaks
